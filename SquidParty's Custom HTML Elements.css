@@ -1,0 +1,24 @@
+/* SquidParty's Custom HTML Elements */
+/* Custom elements: <h7>, <h8>, <h9>, <h10>, <box> (Holds things like a <div> element, but has a built-in border and padding) */
+/* Copyright ©2022 SquidParty, All rights reserved. */
+h7 {
+  font-size: 11px;
+  font-weight: bold;
+}
+h8 {
+  font-size: 8px;
+  font-weight: bold;
+}
+h9 {
+  font-size: 6.5px;
+  font-weight: bold;
+}
+h10 {
+  font-size: 5px;
+  font-weight: bold;
+}
+box {
+  border: 2px solid black;
+  padding: 10px;
+}
+/*~END OF CODE~*/

@@ -1,0 +1,50 @@
+/* <font> element by SquidParty */
+/* Available fonts: 'comicSans' (Comic Sans MS), 'roboto' (Roboto), 'mojangles' (Minecraft's font), 'gameOfsquids' (Squid Game's font), 'burbankCondensed' (Fortnite's font), 'pokemon' (Pokémon's font), and 'superPlumberBros' (Super Mario Bros's font). */
+/* To use:  e.g. Mojang Font { <p><font id="mojangles">Minecraft</font></p> } */
+/* Copyright ©2022 SquidParty, All rights reserved. */
+
+@font-face {
+  font-family: Mojangles;
+  src: url(https://raw.githubusercontent.com/SimpleJSBoi/Squid-Game-Font/main/Minecraftia.ttf);
+}
+@font-face {
+  font-family: "Game of Squids";
+  src: url(https://raw.githubusercontent.com/SimpleJSBoi/Squid-Game-Font/main/GameOfSquids-1GMVL.ttf);
+}
+@font-face {
+  font-family: "Big Burbank Condensed";
+  /* Note: I paid $20 for this font, don't use without my permission! */
+  src: url(https://raw.githubusercontent.com/SimpleJSBoi/Squid-Game-Font/main/BurbankBigCondensed-Black.otf);
+}
+@font-face {
+  font-family: Pokemon;
+  src: url(https://raw.githubusercontent.com/SimpleJSBoi/Squid-Game-Font/main/Pokemon.Hollow.ttf);
+}
+@font-face {
+  font-family: "Super Mario Bros";
+  src: url(https://raw.githubusercontent.com/SimpleJSBoi/Squid-Game-Font/main/MarioFont1.ttf);
+}
+font#comicSans {
+  font-family: "Comic Sans MS";
+}
+font#roboto {
+  font-family: Roboto;
+}
+font#mojangles {
+  font-family: Mojangles;
+}
+font#gameOfSquids {
+  font-family: "Game of Squids";
+}
+font#burbankCondensed {
+  font-family: "Big Burbank Condensed";
+}
+font#pokemon {
+  font-family: Pokemon;
+}
+font#superPlumberBros {
+  font-family: "Super Mario Bros";
+  font-weight: 400;
+  font-style: normal;
+}
+/*~END OF CODE~*/
