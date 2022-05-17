@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 300 345" width="300" height="345" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="150" y1="259.14" x2="150" y2="345" id="gradient-0" gradientTransform="matrix(1, 0, 0, 0.993351, 0, 1.723343)">
+      <stop offset="0" style="stop-color: rgba(42, 128, 38, 1)"/>
+      <stop offset="1" style="stop-color: rgb(25, 90, 23);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="150" y1="45" x2="150" y2="298.39" id="gradient-1" gradientTransform="matrix(1, 0, 0, 1, 0, 0.000)">
+      <stop offset="0" style="stop-color: rgb(255, 0, 0);"/>
+      <stop offset="0.856" style="stop-color: rgb(141, 41, 41);"/>
+      <stop offset="0.889" style="stop-color: rgb(12, 136, 8);"/>
+      <stop offset="1" style="stop-color: rgb(12, 136, 8);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="32.12" y1="184.458" x2="32.12" y2="211.296" id="gradient-2" gradientTransform="matrix(1, 0, 0, 1, 0.000004, 0.000026)">
+      <stop offset="0" style="stop-color: rgba(242, 235, 201, 1)"/>
+      <stop offset="1" style="stop-color: rgb(218, 205, 145);"/>
+    </linearGradient>
+  </defs>
+  <path id="path839" d="M 263.62 345 L 36.38 345 C 16.288 345 0 328.712 0 308.62 L 0 259.14 L 300 259.14 L 300 308.62 C 300 328.712 283.712 345 263.62 345 Z" style="fill: url(#gradient-0);"/>
+  <rect style="fill-opacity: 1; fill: url(#gradient-1);" id="rect841" width="300" height="253.39" rx="36.38" y="45"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.920505, 0.390732, -0.390732, 0.920505, 79.870087, 3.180047)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.961262, -0.275636, 0.275636, 0.961262, 9.503606, -34.597164)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.484809, 0.87462, -0.87462, 0.484809, 396.653503, -36.242664)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(-0.987688, -0.156436, 0.156436, -0.987688, 179.503265, 326.706573)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(-0.500001, 0.866025, -0.866025, -0.500001, 445.323181, 271.639435)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.069758, -0.997564, 0.997564, 0.069758, -17.465473, 229.088745)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.559194, -0.829037, 0.829037, 0.559194, -152.271667, 4.62398)"/>
+  <ellipse style="fill: url(#gradient-2);" cx="32.12" cy="197.877" rx="6.907" ry="13.419" transform="matrix(0.681997, 0.731355, -0.731355, 0.681997, 219.23555, 65.422745)"/>
+</svg>
