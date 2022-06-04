@@ -57,5 +57,4 @@
   }
   if (str.match(/;$/)) str = str.substr(0, str.length - 1)
   return str
-  var tab = open()
-  tab.document.write(str)
+  document.write(str)
