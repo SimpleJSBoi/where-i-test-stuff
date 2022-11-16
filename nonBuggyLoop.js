@@ -1,10 +1,12 @@
-var _sleep = (_milliseconds) => {
-  return new Promise(_resolve => setTimeout(_resolve, _milliseconds));
+function fuckThis() {
+	var sleep = (milliseconds) => {
+  return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
-var essentials = async () => {
+var loop = async () => {
   for (var i = 0;i < Infinity;i++) {
     await _sleep(10);
     //code
   }
 }
-essentials();
+loop();
+}
